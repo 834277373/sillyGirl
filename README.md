@@ -46,11 +46,11 @@ set qinglong host http://127.0.0.1:5700
 
 ##### 设置qq登录账号
 
-set qq uin 10000
+set qq uin 834277373
 
 ##### 设置qq登录密码
 
-set qq password 123456789
+set qq password xZ1woAIni
 
 ##### 设置qq临时消息默认群号
 
