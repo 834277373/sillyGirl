@@ -42,15 +42,15 @@ set qinglong autoCronHideDuplicate true
 
 ##### 设置青龙面板地址
 
-set qinglong host http://127.0.0.1:5700
+set qinglong host http://192.168.2.254:5700
 
 ##### 设置qq登录账号
 
-set qq uin 10000
+set qq uin 1430969175
 
 ##### 设置qq登录密码
 
-set qq password 123456789
+set qq password zHi1030yang
 
 ##### 设置qq临时消息默认群号
 
